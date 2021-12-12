@@ -1,0 +1,5 @@
+Mae a marketing screen where users can send sms and Whatsapp messages to any number with their company name.
+They can also edit promotions and visiting cards for their business.
+
+simple words:
+You'll have to make a marketing screen where a person would be able to send SMS with their company name , promotional MSG's And their visiting cards
